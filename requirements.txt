@@ -1,0 +1,79 @@
+# ===== AI / ML / Deep Learning =====
+numpy
+pandas
+scipy
+scikit-learn
+tensorflow
+torch
+torchvision
+torchaudio
+transformers
+diffusers
+accelerate
+opencv-python
+matplotlib
+seaborn
+plotly
+
+# ===== NLP / Text =====
+spacy
+nltk
+textblob
+gensim
+sentence-transformers
+
+# ===== Web / APIs =====
+flask
+fastapi
+uvicorn
+requests
+httpx
+aiohttp
+beautifulsoup4
+lxml
+selenium
+gradio
+
+# ===== Databases =====
+sqlalchemy
+psycopg2
+mysqlclient
+pymongo
+tinydb
+
+# ===== Audio / Music =====
+pygame
+pyaudio
+librosa
+pydub
+soundfile
+mido
+music21
+MIDIUtil
+
+# ===== App packaging / Electron / Desktop =====
+pyinstaller
+pywebview
+eel
+
+# ===== Utilities / CLI / Scripting =====
+click
+typer
+python-dotenv
+rich
+loguru
+tqdm
+watchdog
+pyyaml
+jsonschema
+
+# ===== Testing / Dev Tools =====
+pytest
+pytest-cov
+black
+flake8
+mypy
+
+# ===== AI / OpenAI / Chat interfaces =====
+openai
+langchain
